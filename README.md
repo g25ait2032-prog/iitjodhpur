@@ -72,7 +72,7 @@ python eval.py
 | F1 Score  | 0.6452   |
 | Eval Loss | 0.9723   |
 
-*(Fill in after running training — replace `0.XX` with actual values from your W&B dashboard.)*
+
 
 ---
 
