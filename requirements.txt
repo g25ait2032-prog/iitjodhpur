@@ -1,0 +1,11 @@
+transformers>=4.40.0
+torch>=2.2.0
+datasets>=2.18.0
+scikit-learn>=1.4.0
+wandb>=0.17.0
+huggingface-hub>=0.22.0
+requests>=2.31.0
+pandas>=2.2.0
+numpy>=1.26.0
+export WANDB_API_KEY='wandb_v1_26pVoAHaAw69uGorjO7LUeL1M9c'
+export HF_TOKEN='your_token_here'
