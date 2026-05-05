@@ -68,9 +68,9 @@ python eval.py
 
 | Metric    | Score  |
 |-----------|--------|
-| Accuracy  | 0.XX   |
-| F1 Score  | 0.XX   |
-| Eval Loss | 0.XX   |
+| Accuracy  | 0.6464   |
+| F1 Score  | 0.6452   |
+| Eval Loss | 0.9723   |
 
 *(Fill in after running training — replace `0.XX` with actual values from your W&B dashboard.)*
 
